@@ -1,0 +1,22 @@
+[
+  {
+    "event_type": "login_failure",
+    "username": "admin",
+    "source_ip": "10.0.0.5"
+  },
+  {
+    "event_type": "login_failure",
+    "username": "admin",
+    "source_ip": "10.0.0.5"
+  },
+  {
+    "event_type": "login_failure",
+    "username": "admin",
+    "source_ip": "10.0.0.5"
+  },
+  {
+    "event_type": "login_success",
+    "username": "admin",
+    "source_ip": "10.0.0.5"
+  }
+]
